@@ -1,0 +1,37 @@
+
+.errors{
+    color: #ff5b5b;
+    margin: 0;
+}
+
+label{
+    font-size: 22px;
+}
+
+input{
+    width: 50%;
+    height: 22px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 25px;   
+    padding: 4px 15px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 2px 2px 4px rgb(61, 61, 61);
+    border: solid 2px #6161ff;
+}
+
+.form{
+    width: 600px;
+    margin: 100px;
+    padding: 15px 0;
+    margin: auto auto;
+    margin-top: 30px;
+    justify-content: center;
+    border: 3px solid #6161ff;
+}
+
+.enviar{
+    margin-top: 10px;
+    width: 150px;
+}

@@ -1,0 +1,40 @@
+{
+    "series":[
+        {
+            "nombre": "Breaking Bad",
+            "subgenero": "Drama criminal",
+            "plataforma": "Netflix",
+            "año_estreno": 2008,
+            "temporadas": 5
+        },
+        {
+            "nombre": "Stranger things",
+            "subgenero": "Ciencia ficción, Suspenso",
+            "plataforma": "Netflix",
+            "año_estreno": 2016,
+            "temporadas": 4
+        },
+        {
+            "nombre": "Game of thrones",
+            "subgenero": "Fantasía épica",
+            "plataforma": "HBO",
+            "año_estreno": 2011,
+            "temporadas": 8
+        },
+        {
+            "nombre": "The crown",
+            "subgenero": "Drama histórico",
+            "plataforma": "Netflix",
+            "año_estreno": 2015,
+            "temporadas": 4
+        },
+        {
+            "nombre": "The Mandalorian",
+            "subgenero": "Space Western",
+            "plataforma": "Disney+",
+            "año_estreno": 2019,
+            "temporadas": 2
+        }
+    ]
+
+}
